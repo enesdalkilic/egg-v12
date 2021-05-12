@@ -1,0 +1,24 @@
+{
+  "name": "egg-v12",
+  "version": "2.0.0",
+  "description": "Egg Bot'un altyapısına benzer boş bir altyapı.",
+  "main": "app.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^9.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enesdlklc5/egg-v12.git"
+  },
+  "author": "StreoidVoid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enesdlklc5/egg-v12/issues"
+  },
+  "homepage": "https://github.com/enesdlklc5/egg-v12#readme"
+}
