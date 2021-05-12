@@ -13,7 +13,8 @@ Bu adımları takip ederek ilk olarak paketleri yükleyin ve botu çalıştırı
 npm install 
 node app.js
 ```
-
+## Bilgilendirme 
+Commands klasörü içinde hem klasörlere ayırıp hemde direk olarak dosyaları koyarak kullanabilirsiniz altyapı bunu ayırt edicektir :)
 
 ## License
 
